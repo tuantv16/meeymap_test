@@ -1,0 +1,642 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "DIENTICH": "Number"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "DIENTICHPL": "Number"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "DOAN": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "ENGTYPE_3": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "FID1": "Number"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "FID_": "Number"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "ID": "Number"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "Join_Count": "Number"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "NAME_0": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "NAME_1": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "NAME_2": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "NAME_3": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "OBJECTID": "Number"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": "Number"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "OBJECTID_2": "Number"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "QUANHUYEN": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "SHAPE_Leng": "Number"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "SHBANDO": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "SHTHUA": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "SOQD": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "Shape_Area": "Number"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "T3N3": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "TARGET_FID": "Number"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "THUAID": "Number"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "TINHTP": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "TYPE_3": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "VARNAME_3": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "XAPHUONG": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "address": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "addressTyp": "Number"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "area": "Number"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "city_name": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "district_n": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "height": "Number"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "id_city": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "id_distric": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "id_qHuyen": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "id_tinhTP": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "id_ward": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "inQHXD": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "lat": "Number"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "lat_cen": "Number"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "layerType": "Number"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "lcode": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "length": "Number"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "lng": "Number"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "long_cen": "Number"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "typeName": "String"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.707458,
+          10.760461
+        ]
+      },
+      "properties": {
+        "ward_name": "String"
+      }
+    }
+  ]
+}
